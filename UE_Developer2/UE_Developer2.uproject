@@ -10,6 +10,30 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "Harmonix",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioInsights",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplayVolume",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
 		}
 	]
 }
